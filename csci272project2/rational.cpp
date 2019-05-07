@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "rational.h"
 #include <iostream>
 using namespace std; 
